@@ -16,7 +16,7 @@ Knowledge Retrieval: This functionality allows your assistant to stand out by en
 
 ---
 
-![Alt text](/assets/lib/assitants_api/image1.png)
+
 
 ---
 
@@ -24,7 +24,7 @@ However, it's important to note that not all file types are supported for inform
 
 ---
 
-![Alt text](/assets/lib/assitants_api/image2.png)
+
 
 ---
 

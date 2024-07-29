@@ -33,7 +33,7 @@ Basic prompt:
 
 ---
 
-![Alt text](/assets/lib/prompt/image1.jpg)
+
 
 ---
 
@@ -41,7 +41,7 @@ Well structured prompt:
 
 ---
 
-![Alt text](/assets/lib/prompt/image2.jpg)
+
 
 ---
 
@@ -51,7 +51,7 @@ When instructing how the model should answer certain queries, you can anticipate
 
 ---
 
-![Alt text](/assets/lib/prompt/image3.jpg)
+
 
 ---
 

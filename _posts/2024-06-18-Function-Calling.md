@@ -30,7 +30,7 @@ Let's say we want to enable an LLM to scan a WordPress website and check for any
 
 ---
 
-![Alt text](/assets/lib/function_calling_for_LLM/function.png)
+
 
 ---
 
@@ -40,7 +40,7 @@ Then, we call a nested function process_wp_version(url). Here's another advantag
 
 ---
 
-![Alt text](/assets/lib/function_calling_for_LLM/image2.png)
+
 
 ---
 
@@ -50,7 +50,7 @@ Finally, we can ask the LLM about the version of a WordPress website and check f
 
 ---
 
-![Alt text](/assets/lib/function_calling_for_LLM/image3.png)
+
 
 ---
 
