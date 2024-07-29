@@ -30,7 +30,7 @@ Let's say we want to enable an LLM to scan a WordPress website and check for any
 
 ---
 
-
+![Alt text](/assets/img/function.png)
 
 ---
 
